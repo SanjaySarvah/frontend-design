@@ -35,8 +35,8 @@ To view the landing page locally, you only need a web browser.
 ### Installation
 
 1. **Clone the Repository**:
-   ```bash
-https://github.com/SanjaySarvah/frontend-design.git
+   [```bash](https://github.com/SanjaySarvah/frontend-design.git
+)
 
 
 Hero Section: Features a large background image with a tagline and a prominent call-to-action button.
