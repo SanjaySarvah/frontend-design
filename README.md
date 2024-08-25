@@ -35,7 +35,7 @@ To view the landing page locally, you only need a web browser.
 ### Installation
 
 1. **Clone the Repository**:
-   [```bash](https://github.com/SanjaySarvah/frontend-design.git
+  (https://github.com/SanjaySarvah/frontend-design.git
 )
 
 
